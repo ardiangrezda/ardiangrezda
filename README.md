@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Ardian Grezda    �
 
-<!--
-**ardiangrezda/ardiangrezda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software developer with 20+ years of experience in designing and building enterprise applications.  
+Specialized in **.NET technologies**, **database systems**, and **cross-platform development**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills:
+- **Languages:** C++, C, Python, C#  
+- **Web & Frameworks:** ASP.NET, Blazor, .NET Core, AngularJS, JavaScript  
+- **Databases:** SQL Server, PostgreSQL, MySQL, OracleDB  
+- **OS & Tools:** Linux, Windows, Git, Docker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🚀 Selected Projects  
+- **GrezdaAccountingAR** — Accounting & invoicing system for small businesses (ASP.NET Core + SQL Server + Blazor).  
+- **BatchTopupClient-UP** — Offline account top-up client for telecom services (C# WebForms + SQL Server).  
+  
+📫 How to reach me: ...
+ - **Email:** anigrezda@hotmail.com 
+ - **LinkedIn:** https://www.linkedin.com/in/ardian-grezda-1613465/ 
