@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ardian Grezda    �
 
 💻 Software developer with 20+ years of experience in designing and building enterprise applications.  
-Specialized in **C++**, **.NET technologies**, **database systems**, and **cross-platform development**.
+Specialized in **C++**, **.NET technologies**, **Python**, **database systems**, and **cross-platform development**.
 
 ## 🛠️ Skills:
 - **Languages:** C++, C, Python, C#  
